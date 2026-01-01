@@ -2,29 +2,21 @@
 # For configuration options and examples, please see:
 # https://gethomepage.dev/configs/bookmarks
 
-- Developer:
+- Github:
     - freeCodeCamp projects:
-        - abbr: GH
+        - icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/github.svg
           href: https://github.com/Smulbero/fcc-projects
     - Smulberohub:
-        - abbr: GH
+        - icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/github.svg
           href: https://github.com/Smulbero/smulberohub
     - Cloud projects:
-        - abbr: GH
+        - icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/github.svg
           href: https://github.com/Smulbero/cloud-projects
 
 - Social:
     - Reddit:
-        - abbr: RE
+        - icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/reddit.svg
           href: https://reddit.com/
     - X:
-        - abbr: X
+        - icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/x.svg
           href: https://x.com/home/
-
-- Entertainment:
-    - YouTube:
-        - abbr: YT
-          href: https://youtube.com/
-    - Twitch:
-        - abbr: TTV
-          href: https://twitch.tv/

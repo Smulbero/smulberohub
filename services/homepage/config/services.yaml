@@ -4,16 +4,34 @@
 
 - Networking:
     - Pihole-1:
+        icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/pi-hole.svg
         href: http://pihole1.smulberohub.lan
         description: Local DNS
     - Pihole-2:
+        icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/pi-hole.svg
         href: http://pihole2.smulberohub.lan
         description: Local DNS
     - Nginx Proxy Manager:
+        icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nginx-proxy-manager.svg
         href: http://npm.smulberohub.lan
         description: Proxy Manager
+
 - Infrastructure:
     - Gateway:
+        icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/router.svg
         href: http://10.10.10.1
     - Proxmox:
+        icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proxmox.svg
         href: http://10.10.10.100:8006
+
+- Enterteinment:
+    - Jellyfin:
+        icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/jellyfin.svg
+        href: jellyfin.smulberohub.lan
+        description: Media streaming
+    - Twitch:
+        icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/twitch.svg
+        href: https://twitch.tv/ 
+    - Youtube:
+        icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/youtube.svg
+        href: https://youtube.com/
