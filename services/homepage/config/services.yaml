@@ -32,7 +32,7 @@
 - Entertainment:
     - Jellyfin:
         icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/jellyfin.svg
-        href: jellyfin.smulberohub.lan
+        href: http://jellyfin.smulberohub.lan
         description: Media streaming
     - Twitch:
         icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/twitch.svg
