@@ -13,3 +13,10 @@
     focus: ture
     showSearchSuggestions: true
 
+- datetime:
+    text_size: 1x
+    locale: fi
+    format:
+        dateStyle: short
+        timeStyle: short
+        hourCycle: h23
