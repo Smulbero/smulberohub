@@ -19,13 +19,13 @@
 - Infrastructure:
     - Gateway:
         icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/router.svg
-        href: http://10.10.10.1
+        href: http:s//10.10.10.1
     - Proxmox:
         icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proxmox.svg
-        href: http://10.10.10.100:8006
+        href: https://10.10.10.100:8006
         widget:
             type: proxmox
-            url: http://10.10.10.100:8006
+            url: https://10.10.10.100:8006
             username: {{HOMEPAGE_VAR_PVE_USERNAME}}
             password: {{HOMEPAGE_VAR_PVE_PASSWORD}}
 
