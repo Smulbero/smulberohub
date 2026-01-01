@@ -1,0 +1,19 @@
+---
+# For configuration options and examples, please see:
+# https://gethomepage.dev/configs/services/
+
+- Networking:
+    - Pihole-1:
+        href: http://pihole1.smulberohub.lan
+        description: Local DNS
+    - Pihole-2:
+        href: http://pihole2.smulberohub.lan
+        description: Local DNS
+    - Nginx Proxy Manager:
+        href: http://npm.smulberohub.lan
+        description: Proxy Manager
+- Infrastructure:
+    - Gateway:
+        href: http://10.10.10.1
+    - Proxmox:
+        href: http://10.10.10.100:8006

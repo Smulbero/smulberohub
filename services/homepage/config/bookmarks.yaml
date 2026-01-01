@@ -1,0 +1,30 @@
+---
+# For configuration options and examples, please see:
+# https://gethomepage.dev/configs/bookmarks
+
+- Developer:
+    - freeCodeCamp projects:
+        - abbr: GH
+          href: https://github.com/Smulbero/fcc-projects
+    - Smulberohub:
+        - abbr: GH
+          href: https://github.com/Smulbero/smulberohub
+    - Cloud projects:
+        - abbr: GH
+          href: https://github.com/Smulbero/cloud-projects
+
+- Social:
+    - Reddit:
+        - abbr: RE
+          href: https://reddit.com/
+    - X:
+        - abbr: X
+          href: https://x.com/home/
+
+- Entertainment:
+    - YouTube:
+        - abbr: YT
+          href: https://youtube.com/
+    - Twitch:
+        - abbr: TTV
+          href: https://twitch.tv/

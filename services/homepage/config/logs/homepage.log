@@ -1,0 +1,210 @@
+[2025-12-30T18:32:37.708Z] error: Failed to load services.yaml, please check for errors
+[2025-12-30T18:32:37.709Z] error: TypeError: b[c].forEach is not a function
+[2025-12-30T18:32:37.711Z] error: Failed to load services.yaml, please check for errors
+[2025-12-30T18:32:37.711Z] error: TypeError: b[c].forEach is not a function
+[2025-12-30T18:32:37.903Z] error: Failed to load services.yaml, please check for errors
+[2025-12-30T18:32:37.903Z] error: TypeError: b[c].forEach is not a function
+[2025-12-30T18:33:51.888Z] error: Failed to load services.yaml, please check for errors
+[2025-12-30T18:33:51.888Z] error: TypeError: b[c].forEach is not a function
+[2025-12-30T18:33:51.889Z] error: Failed to load services.yaml, please check for errors
+[2025-12-30T18:33:51.889Z] error: TypeError: b[c].forEach is not a function
+[2025-12-30T18:33:52.115Z] error: Failed to load services.yaml, please check for errors
+[2025-12-30T18:33:52.115Z] error: TypeError: b[c].forEach is not a function
+[2025-12-30T18:35:58.056Z] error: Failed to load services.yaml, please check for errors
+[2025-12-30T18:35:58.056Z] error: YAMLException: bad indentation of a sequence entry (10:13)
+
+  7 |         href: http://10.10.10.110
+  8 |         description: Local DNS
+  9 |     - Pihole-2
+ 10 |         href: http://10.10.10.111
+------------------^
+ 11 |         description: Local DNS
+[2025-12-30T18:35:58.057Z] error: Failed to load services.yaml, please check for errors
+[2025-12-30T18:35:58.058Z] error: YAMLException: bad indentation of a sequence entry (10:13)
+
+  7 |         href: http://10.10.10.110
+  8 |         description: Local DNS
+  9 |     - Pihole-2
+ 10 |         href: http://10.10.10.111
+------------------^
+ 11 |         description: Local DNS
+[2025-12-30T18:35:58.285Z] error: Failed to load services.yaml, please check for errors
+[2025-12-30T18:35:58.285Z] error: YAMLException: bad indentation of a sequence entry (10:13)
+
+  7 |         href: http://10.10.10.110
+  8 |         description: Local DNS
+  9 |     - Pihole-2
+ 10 |         href: http://10.10.10.111
+------------------^
+ 11 |         description: Local DNS
+[2026-01-01T08:21:55.667Z] error: undefined
+[2026-01-01T08:21:55.671Z] error: undefined
+[2026-01-01T08:21:55.679Z] error: TypeError: Invalid URL
+    at new URL (node:internal/url:827:25)
+    at l (/opt/homepage/.next/server/pages/index.js:1:89381)
+    at Wc (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:68:44)
+    at Zc (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:70:253)
+    at Z (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:76:89)
+    at $c (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:78:98)
+    at bd (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:77:404)
+    at Z (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:76:217)
+    at $c (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:78:98)
+    at Zc (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:71:145)
+[2026-01-01T08:21:55.685Z] error: TypeError: Invalid URL
+    at new URL (node:internal/url:827:25)
+    at l (/opt/homepage/.next/server/pages/index.js:1:89381)
+    at Wc (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:68:44)
+    at Zc (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:70:253)
+    at Z (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:76:89)
+    at $c (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:78:98)
+    at bd (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:77:404)
+    at Z (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:76:217)
+    at $c (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:78:98)
+    at Zc (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:71:145)
+[2026-01-01T08:22:09.967Z] error: undefined
+[2026-01-01T08:22:09.969Z] error: TypeError: Invalid URL
+    at new URL (node:internal/url:827:25)
+    at l (/opt/homepage/.next/server/pages/index.js:1:89381)
+    at Wc (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:68:44)
+    at Zc (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:70:253)
+    at Z (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:76:89)
+    at $c (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:78:98)
+    at bd (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:77:404)
+    at Z (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:76:217)
+    at $c (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:78:98)
+    at Zc (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:71:145)
+[2026-01-01T08:22:09.976Z] error: undefined
+[2026-01-01T08:22:42.129Z] error: undefined
+[2026-01-01T08:22:42.133Z] error: TypeError: Invalid URL
+    at new URL (node:internal/url:827:25)
+    at l (/opt/homepage/.next/server/pages/index.js:1:89381)
+    at Wc (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:68:44)
+    at Zc (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:70:253)
+    at Z (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:76:89)
+    at $c (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:78:98)
+    at bd (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:77:404)
+    at Z (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:76:217)
+    at $c (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:78:98)
+    at Zc (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:71:145)
+[2026-01-01T08:22:42.136Z] error: undefined
+[2026-01-01T08:22:42.137Z] error: TypeError: Invalid URL
+    at new URL (node:internal/url:827:25)
+    at l (/opt/homepage/.next/server/pages/index.js:1:89381)
+    at Wc (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:68:44)
+    at Zc (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:70:253)
+    at Z (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:76:89)
+    at $c (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:78:98)
+    at bd (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:77:404)
+    at Z (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:76:217)
+    at $c (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:78:98)
+    at Zc (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:71:145)
+[2026-01-01T08:22:42.142Z] error: TypeError: Invalid URL
+    at new URL (node:internal/url:827:25)
+    at l (/opt/homepage/.next/server/pages/index.js:1:89381)
+    at Wc (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:68:44)
+    at Zc (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:70:253)
+    at Z (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:76:89)
+    at $c (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:78:98)
+    at bd (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:77:404)
+    at Z (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:76:217)
+    at $c (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:78:98)
+    at Zc (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:71:145)
+[2026-01-01T08:24:10.799Z] error: undefined
+[2026-01-01T08:24:10.800Z] error: TypeError: Invalid URL
+    at new URL (node:internal/url:827:25)
+    at l (/opt/homepage/.next/server/pages/index.js:1:89381)
+    at Wc (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:68:44)
+    at Zc (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:70:253)
+    at Z (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:76:89)
+    at $c (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:78:98)
+    at bd (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:77:404)
+    at Z (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:76:217)
+    at $c (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:78:98)
+    at Zc (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:71:145)
+[2026-01-01T08:24:10.809Z] error: undefined
+[2026-01-01T08:25:21.510Z] error: undefined
+[2026-01-01T08:25:21.512Z] error: TypeError: Invalid URL
+    at new URL (node:internal/url:827:25)
+    at l (/opt/homepage/.next/server/pages/index.js:1:89381)
+    at Wc (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:68:44)
+    at Zc (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:70:253)
+    at Z (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:76:89)
+    at $c (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:78:98)
+    at bd (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:77:404)
+    at Z (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:76:217)
+    at $c (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:78:98)
+    at Zc (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:71:145)
+[2026-01-01T08:25:21.515Z] error: undefined
+[2026-01-01T08:25:21.516Z] error: TypeError: Invalid URL
+    at new URL (node:internal/url:827:25)
+    at l (/opt/homepage/.next/server/pages/index.js:1:89381)
+    at Wc (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:68:44)
+    at Zc (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:70:253)
+    at Z (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:76:89)
+    at $c (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:78:98)
+    at bd (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:77:404)
+    at Z (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:76:217)
+    at $c (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:78:98)
+    at Zc (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:71:145)
+[2026-01-01T08:25:21.520Z] error: TypeError: Invalid URL
+    at new URL (node:internal/url:827:25)
+    at l (/opt/homepage/.next/server/pages/index.js:1:89381)
+    at Wc (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:68:44)
+    at Zc (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:70:253)
+    at Z (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:76:89)
+    at $c (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:78:98)
+    at bd (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:77:404)
+    at Z (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:76:217)
+    at $c (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:78:98)
+    at Zc (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:71:145)
+[2026-01-01T08:25:27.156Z] error: undefined
+[2026-01-01T08:25:27.157Z] error: TypeError: Invalid URL
+    at new URL (node:internal/url:827:25)
+    at l (/opt/homepage/.next/server/pages/index.js:1:89381)
+    at Wc (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:68:44)
+    at Zc (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:70:253)
+    at Z (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:76:89)
+    at $c (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:78:98)
+    at bd (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:77:404)
+    at Z (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:76:217)
+    at $c (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:78:98)
+    at Zc (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:71:145)
+[2026-01-01T08:25:27.159Z] error: undefined
+[2026-01-01T08:27:50.155Z] error: undefined
+[2026-01-01T08:27:50.158Z] error: undefined
+[2026-01-01T08:27:50.159Z] error: TypeError: Invalid URL
+    at new URL (node:internal/url:827:25)
+    at l (/opt/homepage/.next/server/pages/index.js:1:89381)
+    at Wc (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:68:44)
+    at Zc (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:70:253)
+    at Z (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:76:89)
+    at $c (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:78:98)
+    at bd (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:77:404)
+    at Z (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:76:217)
+    at $c (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:78:98)
+    at Zc (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:71:145)
+[2026-01-01T08:27:50.163Z] error: TypeError: Invalid URL
+    at new URL (node:internal/url:827:25)
+    at l (/opt/homepage/.next/server/pages/index.js:1:89381)
+    at Wc (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:68:44)
+    at Zc (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:70:253)
+    at Z (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:76:89)
+    at $c (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:78:98)
+    at bd (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:77:404)
+    at Z (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:76:217)
+    at $c (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:78:98)
+    at Zc (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:71:145)
+[2026-01-01T08:28:37.525Z] error: undefined
+[2026-01-01T08:28:37.526Z] error: TypeError: Invalid URL
+    at new URL (node:internal/url:827:25)
+    at l (/opt/homepage/.next/server/pages/index.js:1:89381)
+    at Wc (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:68:44)
+    at Zc (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:70:253)
+    at Z (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:76:89)
+    at $c (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:78:98)
+    at bd (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:77:404)
+    at Z (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:76:217)
+    at $c (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:78:98)
+    at Zc (/opt/homepage/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js:71:145)
+[2026-01-01T08:28:37.529Z] error: undefined
+[2026-01-01T16:49:25.619Z] error: undefined
